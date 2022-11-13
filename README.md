@@ -1,2 +1,2 @@
 # ruby101
-A ruby project
+This is a ruby project
